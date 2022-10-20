@@ -1,2 +1,4 @@
 # ignore zip file
 *.zip
+*.txt
+*.pdf
