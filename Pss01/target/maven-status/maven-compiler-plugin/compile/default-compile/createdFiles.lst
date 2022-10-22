@@ -1,0 +1,5 @@
+com/apress/pss/springsecurity/configuration/SpringSecurityInitializer.class
+com/apress/pss/springsecurity/configuration/UserConfiguration.class
+com/apress/pss/springsecurity/controller/UserController.class
+com/apress/pss/springsecurity/configuration/AppInitializer.class
+com/apress/pss/springsecurity/configuration/SecurityConfiguration.class
