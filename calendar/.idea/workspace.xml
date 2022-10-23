@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aef7498-a984-49e6-9378-5529e1905c20" name="Changes" comment="" />
+    <list default="true" id="7aef7498-a984-49e6-9378-5529e1905c20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/TestthymeleafApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/modal/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/java/com/tuto/thymeleaf/service/EmployeeServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/resources/templates/newemployee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/main/resources/templates/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthymeleaf/src/test/java/com/tuto/thymeleaf/TestthymeleafApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pss01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pss01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apress/calendar/configuration/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/apress/calendar/configuration/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calendar.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/calendar.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calendar/WEB-INF/classes/com/apress/calendar/configuration/DataSourceConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/calendar/WEB-INF/classes/com/apress/calendar/configuration/DataSourceConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calendar/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calendar/WEB-INF/lib/hibernate-validator-8.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calendar/WEB-INF/lib/jakarta.validation-api-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calendar/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apress/calendar/configuration/DataSourceConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/apress/calendar/configuration/DataSourceConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,16 +79,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/joel/joelDev/source/tuto_project/simple_web_app/testthymeleaf",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="calendar_run" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />

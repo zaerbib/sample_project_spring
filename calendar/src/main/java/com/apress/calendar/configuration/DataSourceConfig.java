@@ -37,8 +37,8 @@ public class DataSourceConfig {
         database = builder.setType(EmbeddedDatabaseType.H2).setName("dataSource")
                 .ignoreFailedDrops(true)
                 .continueOnError(false)
-                .addScript("classpath:database/h2/calendar-data.sql")
                 .addScript("classpath:database/h2/calendar-schema.sql")
+                .addScript("classpath:database/h2/calendar-data.sql")
                 .build();
 
         return database;
